@@ -210,7 +210,7 @@ plt.show()
 ```
 
 
-![png](output_2_0.png)
+![png](https://github.com/Caesaryang/MarkdownPhotos/blob/master/output_2_0.png)
 
 
 
