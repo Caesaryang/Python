@@ -1,4 +1,12 @@
-
+---
+layout: post
+title: Linear Model in Python
+subtitle: Simple and Multiple Linear Regression in Python
+author: Caesar F. Yang
+featured-image: /images/2016-11-24/header_map.png
+tags: [data analysis, python, statistics]
+date-string: JULY 24, 2017
+---
 
 ```python
 import pandas as pd
